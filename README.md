@@ -33,13 +33,13 @@ quantitaive methods.
 To install R package `{benchtm}`:
 
 ``` r
-devtools::install_github("Sophie-Sun/benchtm")
+devtools::install_github("openpharma/benchtm")
 ```
 
 ## How to use the package
 
 An .html vignette with introduction to package can be previewed
-[here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Sophie-Sun/benchtm/master/docs/articles/index.html).
+[here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/openpharma/benchtm/master/docs/articles/index.html).
 
 ## Contact us
 
